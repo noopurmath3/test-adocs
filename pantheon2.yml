@@ -3,4 +3,4 @@ repository: jmarrero
 followlinks: true
 
 modules:
- - modules/*.adoc
+ - modules/test.adoc
