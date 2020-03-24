@@ -1,4 +1,7 @@
 = test title
 
 Test works like magic
+
+{product}
+
 Rev234

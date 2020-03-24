@@ -1,6 +1,9 @@
-server: http://pantheon2-pantheon.int.us-east.aws.preprod.paas.redhat.com
-repository: jmarrero
-followlinks: true
+server: http://localhost:8080
+repositories:
+  - name: pantheonSampleRepo
+    attributes: modules/attr.adoc
 
-modules:
- - modules/test.adoc
+    modules:
+      - modules/test.adoc
+
+    resources:

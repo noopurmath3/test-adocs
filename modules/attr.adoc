@@ -1,0 +1,6 @@
+// Test document attributes
+:toc:
+:toclevels: 4
+:numbered:
+:brand: Linux{nbsp}Party
+:product: {brand} Amazing{nbsp}Time
