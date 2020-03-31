@@ -1,7 +1,9 @@
-= test title
+= This is test title
 
+[pantheon:abstract]
 Test works like magic
-
-{product}
-
 Rev234
+New changes added
+== {Product Name}
+=== {Product Version}
+{Spcl char}

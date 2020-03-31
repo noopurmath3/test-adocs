@@ -1,9 +1,8 @@
-server: http://localhost:8080
+server: https://pantheon.corp.dev.redhat.com
 repositories:
-  - name: pantheonSampleRepo
-    attributes: modules/attr.adoc
-
+  - name: nmath-2
+    attributes: attributes/attributes.adoc
     modules:
-      - modules/test.adoc
-
+      - modules/*.adoc  
     resources:
+
